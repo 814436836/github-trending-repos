@@ -1,33 +1,33 @@
 # 🚀 本周热门 GitHub 项目 Top 10
 
-> 更新时间：2026-10-05
+> 更新时间：2026-10-12
 
-### 1. [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-- 简介：The open-source app everyone uses to manage agents at work
+### 1. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+- 简介：Tool for automatic PS5 executables porting to Linux and Windows
 
-### 2. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
-- 简介：Hindsight: Agent Memory That Learns
+### 2. [tester-army/e2e](https://github.com/tester-army/e2e)
+- 简介：Next generation e2e testing framework for web and mobile apps.
 
-### 3. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-- 简介：The design language that makes your AI harness better at design.
+### 3. [mattpocock/skills](https://github.com/mattpocock/skills)
+- 简介：Skills for Real Engineers. Straight from my .agents directory.
 
-### 4. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-- 简介：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+### 4. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+- 简介：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
-### 5. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+### 5. [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
+- 简介：A native, user-mode, multi-process, graphical debugger.
+
+### 6. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 - 简介：Write HTML. Render video. Built for agents.
 
-### 6. [Effect-TS/effect](https://github.com/Effect-TS/effect)
-- 简介：Build production-ready applications in TypeScript
+### 7. [cursor/plugins](https://github.com/cursor/plugins)
+- 简介：Cursor plugin specification and official plugins
 
-### 7. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-- 简介：Learn it. Build it. Ship it for others.
+### 8. [flutter/flutter](https://github.com/flutter/flutter)
+- 简介：Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
-### 8. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-- 简介：Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+### 9. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+- 简介：Give your agent CAD superpowers.
 
-### 9. [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
-- 简介：380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
-
-### 10. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-- 简介：无描述
+### 10. [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+- 简介：Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
