@@ -1,33 +1,33 @@
 # 🚀 本周热门 GitHub 项目 Top 10
 
-> 更新时间：2026-10-19
+> 更新时间：2026-10-26
 
-### 1. [morluto/rea](https://github.com/morluto/rea)
-- 简介：Reverse engineer anything with agents, from app behavior down to native binaries.
+### 1. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+- 简介：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-### 2. [storytold/artcraft](https://github.com/storytold/artcraft)
-- 简介：ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+### 2. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+- 简介：🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
-### 3. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-- 简介：Tool for automatic PS5 executables porting to Linux and Windows
+### 3. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+- 简介：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
-### 4. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-- 简介：Official, Anthropic-managed directory of high quality Claude Code Plugins.
+### 4. [anomalyco/opencode](https://github.com/anomalyco/opencode)
+- 简介：The open source coding agent.
 
-### 5. [mksglu/context-mode](https://github.com/mksglu/context-mode)
-- 简介：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+### 5. [stablyai/orca](https://github.com/stablyai/orca)
+- 简介：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
-### 6. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
-- 简介：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-
-### 7. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
-- 简介：Ghidra is a software reverse engineering (SRE) framework
-
-### 8. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+### 6. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 - 简介：Write HTML. Render video. Built for agents.
 
-### 9. [cursor/plugins](https://github.com/cursor/plugins)
-- 简介：Cursor plugin specification and official plugins
+### 7. [android/skills](https://github.com/android/skills)
+- 简介：无描述
 
-### 10. [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
-- 简介：The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+### 8. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+- 简介：Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+
+### 9. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+- 简介：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+
+### 10. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+- 简介：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
